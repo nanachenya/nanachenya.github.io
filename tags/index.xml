@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Yi-Ching | Personal blog</title>
+    <link>https://nanachenya.guthub.io/tags/</link>
+    <description>Recent content in Tags on Yi-Ching | Personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 05 Feb 2022 22:40:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://nanachenya.guthub.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FOOD</title>
+      <link>https://nanachenya.guthub.io/tags/food/</link>
+      <pubDate>Sat, 05 Feb 2022 22:40:00 +0800</pubDate>
+      
+      <guid>https://nanachenya.guthub.io/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIFE</title>
+      <link>https://nanachenya.guthub.io/tags/life/</link>
+      <pubDate>Sat, 05 Feb 2022 22:40:00 +0800</pubDate>
+      
+      <guid>https://nanachenya.guthub.io/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPORTS</title>
+      <link>https://nanachenya.guthub.io/tags/sports/</link>
+      <pubDate>Sat, 05 Feb 2022 22:40:00 +0800</pubDate>
+      
+      <guid>https://nanachenya.guthub.io/tags/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAIPEI</title>
+      <link>https://nanachenya.guthub.io/tags/taipei/</link>
+      <pubDate>Sat, 05 Feb 2022 22:40:00 +0800</pubDate>
+      
+      <guid>https://nanachenya.guthub.io/tags/taipei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://nanachenya.guthub.io/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://nanachenya.guthub.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://nanachenya.guthub.io/tags/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://nanachenya.guthub.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://nanachenya.guthub.io/tags/new/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://nanachenya.guthub.io/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://nanachenya.guthub.io/tags/photos/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://nanachenya.guthub.io/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://nanachenya.guthub.io/tags/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://nanachenya.guthub.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
